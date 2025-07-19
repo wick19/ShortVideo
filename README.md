@@ -23,6 +23,5 @@ ShortVideo replicates the core experience of platforms like TikTok and Instagram
 - 🔄 Real-time updates and clean modular code structure
 
 **🛠 Tech Stack**
-React Native (Expo or CLI)
 
-Firebase – Auth, Firestore, Storage, React Navigation, React Native Video, Google Sign-In
+React Native (Expo or CLI),Firebase – Auth, Firestore, Storage, React Navigation, React Native Video, Google Sign-In
